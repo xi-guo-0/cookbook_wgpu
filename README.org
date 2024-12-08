@@ -1,0 +1,28 @@
+#+TITLE: WGPU Graphics Programming Cookbook
+
+This is a Rust project for learning computer graphics programming using WGPU (WebGPU implementation in Rust).
+
+* Features
+
+- Basic WGPU setup with window management
+- Modern graphics API abstraction
+- Cross-platform support
+- Clear rendering pipeline structure
+
+* Prerequisites
+
+- Rust and Cargo (latest stable version)
+- A GPU that supports Vulkan, Metal, DX12, or WebGPU
+
+* Getting Started
+
+1. Clone the repository
+2. Build and run the project:
+  #+begin_src bash
+  cargo run
+  #+end_src
+
+* Controls
+
+- Press ESC to exit the application
+- Window is resizable
